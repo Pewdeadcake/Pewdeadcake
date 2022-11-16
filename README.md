@@ -1,15 +1,28 @@
 
 # helo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Pewdeadcake.Pewdeadcake)](https://github.com/Pewdeadcake) [![GitHub followers](https://img.shields.io/github/followers/Pewdeadcake.svg?style=social&label=Follow)](https://github.com/Pewdeadcake?tab=followers)
+# helo! my name is Khoi, your average buildbot with some sense of development i guess?
 
-![Pewdeadcake's Github stats](https://github-readme-stats.vercel.app/api?username=Pewdeadcake&show_icons=true&theme=chartreuse-dark&hide_border=true)
+Currently 15. Studying in Phan Dinh Phung High School
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/Pewdeadcake/count.svg" alt="vistor count" height="30" /></td>
+  </tr>
+</table>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pewdeadcake&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pewdeadcake&langs_count=4&theme=chartreuse-dark&hide_border=true)](https://github.com/Pewdeadcake/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pewdeadcake&theme=synthwave)](https://github.com/Pewdeadcake/github-readme-stats)
+![Log1cs's GitHub stats](https://github-readme-stats.vercel.app/api?usernamePewdeadcake&show_icons=true&theme=synthwave)
 
+## Devices:
+- Glx Z Flip (F700N)
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+- Glx Tab A7 (T505)
 
-[![Telegram Badge](https://img.shields.io/badge/-@deovui-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/deovui "Contact on Telegram")
+## Social Accounts:
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/WhoIsKhoi/)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/deovui)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khoithanthanh/)
 
+## Donate
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.youtube.com/watch?v=drMs1ZGebIE)
