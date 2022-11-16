@@ -12,5 +12,5 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-[![Telegram Badge](https://img.shields.io/badge/-@khoi2710-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/khoi2710 "Contact on Telegram")
+[![Telegram Badge](https://img.shields.io/badge/-@deovui-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/deovui "Contact on Telegram")
 
