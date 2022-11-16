@@ -12,7 +12,6 @@ Currently 15. Studying in Phan Dinh Phung High School
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pewdeadcake&theme=synthwave)](https://github.com/Pewdeadcake/github-readme-stats)
-![Log1cs's GitHub stats](https://github-readme-stats.vercel.app/api?usernamePewdeadcake&show_icons=true&theme=synthwave)
 
 ## Devices:
 - Glx Z Flip (F700N)
