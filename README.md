@@ -1,6 +1,6 @@
 
 # helo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-# helo! my name is Khoi, your average buildbot with some sense of development i guess?
+# helo! my name is Khoi, your average clown with no sense of humor ig?
 
 Currently 15. Studying in Phan Dinh Phung High School
 <table>
