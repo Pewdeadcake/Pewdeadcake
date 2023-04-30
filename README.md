@@ -3,6 +3,7 @@
 # helo! my name is Khoi, your average clown with no sense of humor ig?
 
 Currently 15. Studying at Phan Dinh Phung High School
+ -YOU ARE NOW A+ DEVELOPER ON THIS PLATFORM-
 <table>
   <tr>
     <td>You are visitor</td>
@@ -14,7 +15,11 @@ Currently 15. Studying at Phan Dinh Phung High School
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pewdeadcake&theme=synthwave)](https://github.com/Pewdeadcake/github-readme-stats)
 
 ## Devices:
-- Glx Z Flip (F700N)
+- Glx S20U (G988B)
+
+- RMN4X (mido)
+
+- Glx Watch 4 44mm (R870)
 
 - Glx Tab A7 (T505)
 
