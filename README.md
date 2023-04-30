@@ -4,7 +4,6 @@
 
 Currently 15. Studying at Phan Dinh Phung High School
  
--YOU ARE NOW A+ DEVELOPER ON THIS PLATFORM-
 <table>
   <tr>
     <td>You are visitor</td>
