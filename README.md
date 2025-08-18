@@ -2,7 +2,7 @@
 # helo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # helo! my name is Khoi, your average clown with no sense of humor ig?
 
-Currently 16. Studying at Phan Dinh Phung High School
+Currently 18. Studying at idk
  
 <table>
   <tr>
@@ -15,17 +15,6 @@ Currently 16. Studying at Phan Dinh Phung High School
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pewdeadcake&theme=synthwave)](https://github.com/Pewdeadcake/github-readme-stats)
 
 ## Devices:
-- Glx S21U (G998B)
-
-- GLx S6 (G920F)
-
-- iPod Touch 5th Gen (iPod5,1)
-
-- LG G6 (Lucye)
-
-- Glx Watch 4 44mm (R870)
-
-- Glx Tab A7 (T505)
 
 ## Social Accounts:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/WhoIsKhoi/)
