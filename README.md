@@ -2,7 +2,7 @@
 # helo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # helo! my name is Khoi, your average clown with no sense of humor ig?
 
-Currently 18. Studying at idk
+Currently 18. Studying at Hanoi University of Science and Technology
  
 <table>
   <tr>
